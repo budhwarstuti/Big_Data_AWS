@@ -25,4 +25,4 @@ Total percent 5-Star vine and non-vine reviews
 
 ## **Summary**
 From the above figures, we can see that there is not much different in the results for vine and non vine reviews. There dosnt seem to be any bias for vine reviews.
-Another good way of analysus would be to analyse 
+For the additional analysis, I found that even the percentage of helpful_votes/total_votes thats is more than 50% is quite similar in both vine and no-vine reviews which again indicates no sign of bias.
